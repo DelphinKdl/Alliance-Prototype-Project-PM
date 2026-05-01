@@ -1,14 +1,11 @@
-# Alliance Prototype Project - E-Commerce Platform Prototype (Simulation Task)
-
-## 1. Project Overview
+# Alliance Prototype Project – E-Commerce Platform Prototype
 
 The Alliance Project is a strategic initiative undertaken by Uniworld to revitalize its sales and marketing capabilities through the development of an E-commerce-equipped website prototype. The project involves the development of an 11-week prototype e-commerce website for the fictional client, **Uniworld**, showcasing the feasibility of integrating online sales and marketing capabilities into Uniworld's operations.
 
-This repository documents the entire project lifecycle—planning, execution, monitoring, and closure—supported by real simulation outputs, charts, and cost reports.
+This repository documents the entire project lifecycle, planning, execution, monitoring, and closure, supported by real simulation outputs, charts, and cost reports.
 
----
 
-## 2. Objectives and Goals
+##  Objectives and Goals
 
 ### Business Objectives (Simulation)
 - Modernize Uniworld’s sales and marketing capabilities through an e-commerce prototype.
@@ -22,9 +19,8 @@ This repository documents the entire project lifecycle—planning, execution, mo
 - Stay within the allocated **$50,000** simulated budget.
 - Maintain on-time delivery with no more than 12 known defects at acceptance.
 
----
 
-## 3. Scope
+## Scope
 
 ### In Scope
 - Requirements gathering and stakeholder alignment (simulated)
@@ -40,9 +36,8 @@ This repository documents the entire project lifecycle—planning, execution, mo
 - Live payment gateway integration
 - Long-term maintenance
 
----
 
-## 4. Budget & Cost Performance
+##  Budget & Cost Performance
 
 The project was delivered **under budget** and **on schedule**.
 
@@ -56,9 +51,8 @@ The project was delivered **under budget** and **on schedule**.
 - **Total Variance:** $1,895  
 - **Cost Performance Index (CPI):** 1.039  
 
----
 
-## 5. Earned Value Management (EVM)
+## Earned Value Management (EVM)
 
 EVM was used to track cost and schedule performance throughout the simulation.
 
@@ -72,9 +66,8 @@ EVM was used to track cost and schedule performance throughout the simulation.
 - Earned Value (EV) met Planned Value (PV) at completion → **SPI = 1.0**
 - Actual Cost (AC) remained below EV → **CPI > 1.0**
 
----
 
-## 6. Deviations and Reasons
+## Deviations and Reasons
 
 The deviations from the original timeline were primarily driven by the need to address quality issues and mitigate project risks. The addition of the emergency task and retention of key resources ensured that the project could recover from setbacks and proceed toward successful completion, albeit with adjustments to the timeline and budget constraints.
 
@@ -86,9 +79,8 @@ The deviations from the original timeline were primarily driven by the need to a
 - **Reason:** Introduction of the "Emergency Defect Corrections" task to address quality issues and reduce defect levels.
 - **Impact & Deviation:** Required allocation of additional resources (one software engineer and one network specialist). This resulted in an extension of the project timeline and a strain on the budget due to extra resource allocation.
 
----
 
-## 7. Challenges Faced & Strategies
+## Challenges Faced & Strategies
 
 ### **Challenges Faced**
 - **Absenteeism:** Reduced productivity and efficiency due to absenteeism from David Lewis led to delays in project delivery.
@@ -101,9 +93,8 @@ The deviations from the original timeline were primarily driven by the need to a
 - **Dynamic Scheduling:** Prioritized tasks and adjusted schedules to accommodate unexpected absences, ensuring critical project activities remained on track.
 - **Fostering Team Cohesion:** Fostered a positive work environment and maintained regular communication with team members to address their needs and concerns.
 
----
 
-## 8. Forecasting & Projections
+## Forecasting & Projections
 
 ### **Estimated Cost at Completion (EAC)**
 ![EAC](Images/ECC.png)
@@ -111,13 +102,12 @@ The deviations from the original timeline were primarily driven by the need to a
 The EAC remained stable, finishing at approximately **$48,105**, indicating strong cost control and accuracy in the initial planning phases.
 
 ### **Estimated Project Finish (ESAC)**
-![ESAC](Images/EPf.png)
+![ESAC](Images/EPF.png)
 
 Projected finish consistently hovered between **Week 11 and Week 12**, ultimately closing in **Week 11** as planned.
 
----
 
-## 9. Schedule Management
+## Schedule Management
 
 ### **Gantt Chart**
 ![Gantt Chart](Images/gantt.png)
@@ -127,9 +117,8 @@ The Gantt chart highlights:
 - **Critical Path Stability:** Sequential task management ensured no major slippage.
 - **Milestones:** Successful Customer Acceptance Test and Documentation Review in the final weeks.
 
----
 
-## 10. Quality Management
+## Quality Management
 
 ### **Defect Trends (Quality Chart)**
 ![Quality Chart](Images/Chart-quality.png)
@@ -139,9 +128,7 @@ The Gantt chart highlights:
 - **Corrective Actions:** Focused debugging reduced Software and Hardware defects significantly by Week 11.
 - Final status: Project completed with defects below the target threshold.
 
----
-
-## 11. Labor & Resource Management
+## Labor & Resource Management
 
 ### **Labor Hours by Resource**
 
@@ -152,7 +139,7 @@ The Gantt chart highlights:
 | David Lewis | $43.00 | 234.5 | 6 | $10,083.50 |
 | Sally Nicoles | $46.00 | 315 | 27 | $14,490.00 |
 | Tea Dominique | $45.00 | 167.5 | 27 | $7,537.50 |
-| **Totals** | | **959** | **68** | **$39,905.00**```
+| **Totals** | | **959** | **68** | **$39,905.00** |
 
 ### **Resource Labor Allocation**
 ![Resource Labor](Images/Resourcelaborourspercost.png)
@@ -169,18 +156,22 @@ The Gantt chart highlights:
 - **Reserve Costs:** $5,021.00
 - Majority of reserve usage (**93 hours**) was attributed to resources waiting for predecessor tasks to finish.
 
----
 
-## 12. Project Performance Index (PPI)
+## Project Presentation
+
+You can view the project presentation here:
+- **[View Project Presentation (Google Slides)](https://docs.google.com/presentation/d/1pkQsROuir5wGLGf-wvf7s9BEDyaYqO5Z/edit?usp=sharing&ouid=102506325140225288073&rtpof=true&sd=true)**
+
+
+## Project Performance Index (PPI)
 
 ### **PPI Chart**
 ![PPI Chart](Images/project_performance_Index.png)
 
 The PPI saw early volatility but stabilized near **1.0** from Week 7 onwards, indicating the project was performing exactly as expected in the latter half of the lifecycle.
 
----
 
-## 13. Areas of Improvement for Future Projects
+## Areas of Improvement for Future Projects
 
 - Quality Management
 - Resource Planning and Allocation
@@ -190,9 +181,8 @@ The PPI saw early volatility but stabilized near **1.0** from Week 7 onwards, in
 - Project Monitoring and Control
 - Stakeholder Engagement
 
----
 
-## 14. Recommendations and Conclusion
+## Recommendations and Conclusion
 
 ### **Recommendations**
 - **Communication:** Establish open channels of communication within the project team and with stakeholders. Encourage team members to voice concerns and provide feedback regularly.
@@ -204,9 +194,8 @@ The PPI saw early volatility but stabilized near **1.0** from Week 7 onwards, in
 ### **Conclusion**
 Moving forward, we will continue to build upon the elements of success from this project, leveraging lessons learned to drive excellence in all aspects of future projects and operations.
 
----
 
-## 15. Repository Structure
+## Repository Structure
 
 ```text
 .
@@ -215,10 +204,13 @@ Moving forward, we will continue to build upon the elements of success from this
 │   ├── Chart-quality.png
 │   ├── Earned_value.png
 │   ├── ECC.png
-│   ├── EPf.png
+│   ├── EPF.png
 │   ├── gantt.png
 │   ├── Nontaskrelatedlaborhourpercosts.png
 │   ├── project_performance_Index.png
 │   ├── Reserved_breddown.png
-│   └── Resourcelaborourspercost.png
+│   ├── Resourcelaborourspercost.png
+│   ├── Tasklaborhourspercosts.png
+│   ├── TaskstatusReport.png
+│   └── stackpla1.png
 └── README.md

@@ -1,4 +1,4 @@
-# Alliance Prototype Project - E-Commerce Platform Prototype (Simulation Task)
+# Alliance Prototype Project – E-Commerce Platform Prototype (Simulation Task)
 
 ## 1. Project Overview
 
@@ -6,7 +6,7 @@ The Alliance Prototype Project is an **11-week simulation task** completed as pa
 
 This repository documents the **entire project lifecycle** planning, execution, monitoring, and closure supported by real simulation outputs, charts, and cost reports.
 
----
+
 
 ## 2. Objectives
 
@@ -20,7 +20,7 @@ This repository documents the **entire project lifecycle** planning, execution, 
 - Stay within a **$50,000** simulated budget.
 - Maintain on-time delivery with minimal known defects at acceptance.
 
----
+
 
 ## 3. Scope
 
@@ -32,12 +32,7 @@ This repository documents the **entire project lifecycle** planning, execution, 
 - Quality management and defect tracking
 - Final stakeholder presentation
 
-### Out of Scope
-- Production deployment
-- Live payment gateway integration
-- Long-term maintenance
 
----
 
 ## 4. Budget & Cost Performance
 
@@ -46,68 +41,56 @@ The project was delivered **under budget** and **on schedule**.
 ### **Budget Summary**
 ![Budget Summary](images/budget.png)
 
-**Key Metrics**
-- **Approved Budget:** $50,000  
-- **Planned Cost:** $48,970  
-- **Actual Cost:** $48,105  
-- **Total Variance:** $1,895  
-- **Cost Performance Index (CPI):** 1.039  
+- **Key Metrics**
+ 
+- **Project Budget**: $50,000
 
----
+- **Planned Value (PV)**: $50,000
+
+- **Earned Value (EV)**: $50,000
+
+- **Actual Cost (AC)**: $48,105
+
+- **Actual progress achieved in terms of project deliverables**
+
+**Schedule Performance Index (SPI)**: Indicates the efficiency of the project schedule
+- **SPI = EV / PV = 1**
+
+**Cost Performance Index (CPI)**: Measures the cost efficiency of the project.
+
+- **CPI = EV / Actual Cost = 1.039**
+
 
 ## 5. Earned Value Management (EVM)
 
 EVM was used to track cost and schedule performance throughout the simulation.
 
 ### **Earned Value Chart**
-![Earned Value Chart](images/Earbed%20value.png)
+![Earned Value Chart](images/Earned_value.png)
 
-**Interpretation**
-- **Planned Value (PV):** $50,000
-- **Earned Value (EV):** $50,000
-- **Actual Cost (AC):** $48,105
-- Earned Value (EV) met Planned Value (PV) at completion → **SPI = 1.0**
-- Actual Cost (AC) remained below EV → **CPI > 1.0**
 
----
 
 ## 6. Forecasting & Projections
 
 ### **Estimated Cost at Completion (EAC)**
-![EAC](images/Estimated%20cost%20at%20completion.png)
-
-The EAC remained stable, finishing at approximately **$48,105**, indicating strong cost control and accuracy in the initial planning phases.
+![EAC](images/ECC.png)
 
 ### **Estimated Project Finish (ESAC)**
-![ESAC](images/Estimated%20project%20finish%20(ESAC).png)
+![ESAC](images/EPf.png)
 
-Projected finish consistently hovered between **Week 11 and Week 12**, ultimately closing in **Week 11** as planned.
-
----
 
 ## 7. Schedule Management
 
 ### **Gantt Chart**
 ![Gantt Chart](images/gantt.png)
 
-The Gantt chart highlights:
-- **Major Workstreams:** Systems Design, Network Implementation, Software Implementation, and Systems Integration.
-- **Critical Path Stability:** Sequential task management ensured no major slippage.
-- **Milestones:** Successful Customer Acceptance Test and Documentation Review in the final weeks.
-
----
 
 ## 8. Quality Management
 
 ### **Defect Trends (Quality Chart)**
-[Quality Chart](images/Chart-quality.png)
+![Quality Chart](images/Chart-quality.png)
 
-**Insights**
-- Defects peaked at **Week 8** with nearly 16 project-wide issues.
-- **Corrective Actions:** Focused debugging reduced Software and Hardware defects significantly by Week 11.
-- Final status: Project completed with defects below the target threshold.
 
----
 
 ## 9. Labor & Resource Management
 
@@ -122,37 +105,28 @@ The Gantt chart highlights:
 | Tea Dominique | $45.00 | 167.5 | 27 | $7,537.50 |
 | **Totals** | | **959** | **68** | **$39,905.00** |
 
+### **Resource Labor Allocation**
+![Resource Labor](images/Resourcelaborourspercost.png)
+
 ### **Non-Task Labor Costs**
-![Non Task Labor Costs](images/Non%20task%20related%20labor%20hour%20per%20costs.png)
-- **Total Non-Task Costs:** $954.50
-- Includes 9.5 hours for Team Meetings and 8 hours for Site Visits.
+![Non Task Labor Costs](images/Nontaskrelatedlaborhourpercosts.png)
 
 ### **Reserve Breakdown**
-![Reserve Breakdown](images/Reserved-breddown.png)
-- **Reserve Costs:** $5,021.00
-- Majority of reserve usage (**93 hours**) was attributed to resources waiting for predecessor tasks to finish.
+![Reserve Breakdown](images/Reserved_breddown.png)
 
----
 
 ## 10. Project Performance Index (PPI)
 
 ### **PPI Chart**
-![PPI Chart](images/projectIndex.png)
+![PPI Chart](images/project_performance_Index.png)
 
-The PPI saw early volatility but stabilized near **1.0** from Week 7 onwards, indicating the project was performing exactly as expected in the latter half of the lifecycle.
 
----
 
 ## 11. Final Status Summary
 
-The project achieved **100% completion** with exceptional efficiency.
+The project achieved **100% completion** with a final CPI of **1.039** and an SPI of **1.0**.
 
-**Final Performance Snapshot**
-- **Cost Savings:** $1,895 below approved budget.
-- **Efficiency:** CPI of 1.039 shows we earned more than $1.00 of value for every dollar spent.
-- **Schedule:** Delivered on time in Week 11.
 
----
 
 ## 12. Repository Structure
 

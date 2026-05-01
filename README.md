@@ -47,7 +47,7 @@ This repository documents the entire project lifecycle—planning, execution, mo
 The project was delivered **under budget** and **on schedule**.
 
 ### **Budget Summary**
-![Budget Summary](images/budget.png)
+![Budget Summary](Images/budget.png)
 
 **Key Metrics**
 - **Approved Budget:** $50,000  
@@ -63,7 +63,7 @@ The project was delivered **under budget** and **on schedule**.
 EVM was used to track cost and schedule performance throughout the simulation.
 
 ### **Earned Value Chart**
-![Earned Value Chart](images/Earned_value.png)
+![Earned Value Chart](Images/Earned_value.png)
 
 **Interpretation**
 - **Planned Value (PV):** $50,000
@@ -106,12 +106,12 @@ The deviations from the original timeline were primarily driven by the need to a
 ## 8. Forecasting & Projections
 
 ### **Estimated Cost at Completion (EAC)**
-![EAC](images/ECC.png)
+![EAC](Images/ECC.png)
 
 The EAC remained stable, finishing at approximately **$48,105**, indicating strong cost control and accuracy in the initial planning phases.
 
 ### **Estimated Project Finish (ESAC)**
-![ESAC](images/EPf.png)
+![ESAC](Images/EPf.png)
 
 Projected finish consistently hovered between **Week 11 and Week 12**, ultimately closing in **Week 11** as planned.
 
@@ -120,7 +120,7 @@ Projected finish consistently hovered between **Week 11 and Week 12**, ultimatel
 ## 9. Schedule Management
 
 ### **Gantt Chart**
-![Gantt Chart](images/gantt.png)
+![Gantt Chart](Images/gantt.png)
 
 The Gantt chart highlights:
 - **Major Workstreams:** Systems Design, Network Implementation, Software Implementation, and Systems Integration.
@@ -132,7 +132,7 @@ The Gantt chart highlights:
 ## 10. Quality Management
 
 ### **Defect Trends (Quality Chart)**
-![Quality Chart](images/Chart-quality.png)
+![Quality Chart](Images/Chart-quality.png)
 
 **Insights**
 - Defects peaked at **Week 8** with nearly 16 project-wide issues.
@@ -155,16 +155,16 @@ The Gantt chart highlights:
 | **Totals** | | **959** | **68** | **$39,905.00**```
 
 ### **Resource Labor Allocation**
-![Resource Labor](images/Resourcelaborourspercost.png)
+![Resource Labor](Images/Resourcelaborourspercost.png)
 
 ### **Non-Task Labor Costs**
-![Non Task Labor Costs](images/Nontaskrelatedlaborhourpercosts.png)
+![Non Task Labor Costs](Images/Nontaskrelatedlaborhourpercosts.png)
 
 - **Total Non-Task Costs:** $954.50
 - Includes 9.5 hours for Team Meetings and 8 hours for Site Visits.
 
 ### **Reserve Breakdown**
-![Reserve Breakdown](images/Reserved_breddown.png)
+![Reserve Breakdown](Images/Reserved_breddown.png)
 
 - **Reserve Costs:** $5,021.00
 - Majority of reserve usage (**93 hours**) was attributed to resources waiting for predecessor tasks to finish.
@@ -174,7 +174,7 @@ The Gantt chart highlights:
 ## 12. Project Performance Index (PPI)
 
 ### **PPI Chart**
-![PPI Chart](images/project_performance_Index.png)
+![PPI Chart](Images/project_performance_Index.png)
 
 The PPI saw early volatility but stabilized near **1.0** from Week 7 onwards, indicating the project was performing exactly as expected in the latter half of the lifecycle.
 
@@ -210,7 +210,7 @@ Moving forward, we will continue to build upon the elements of success from this
 
 ```text
 .
-├── images/
+├── Images/
 │   ├── budget.png
 │   ├── Chart-quality.png
 │   ├── Earned_value.png

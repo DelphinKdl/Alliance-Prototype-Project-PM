@@ -1,4 +1,4 @@
-# Alliance Prototype Project – E-Commerce Platform Prototype (Simulation Task)
+# Alliance Prototype Project - E-Commerce Platform Prototype (Simulation Task)
 
 ## 1. Project Overview
 
@@ -100,7 +100,7 @@ The Gantt chart highlights:
 ## 8. Quality Management
 
 ### **Defect Trends (Quality Chart)**
-![Quality Chart](images/Chart-quality.png)
+[Quality Chart](images/Chart-quality.png)
 
 **Insights**
 - Defects peaked at **Week 8** with nearly 16 project-wide issues.
@@ -137,7 +137,7 @@ The Gantt chart highlights:
 ## 10. Project Performance Index (PPI)
 
 ### **PPI Chart**
-![PPI Chart](images/project%20performance%20Index.png)
+![PPI Chart](images/projectIndex.png)
 
 The PPI saw early volatility but stabilized near **1.0** from Week 7 onwards, indicating the project was performing exactly as expected in the latter half of the lifecycle.
 

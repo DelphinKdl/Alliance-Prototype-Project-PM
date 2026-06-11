@@ -1,4 +1,4 @@
-# Alliance Prototype Project – E-Commerce Platform Prototype
+# Project Controls, Quality Management & Performance Reporting Simulation
 
 The Alliance Project is a strategic initiative undertaken by Uniworld to revitalize its sales and marketing capabilities through the development of an E-commerce-equipped website prototype. The project involves the development of an 11-week prototype e-commerce website for the fictional client, **Uniworld**, showcasing the feasibility of integrating online sales and marketing capabilities into Uniworld's operations.
 
